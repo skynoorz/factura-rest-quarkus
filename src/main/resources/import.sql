@@ -1,0 +1,2 @@
+INSERT INTO FACTURA (id, nro_cuenta, fecha_emision, contrato, estado, nombre, ci, nro_factura, monto) VALUES (1, 'nrocuenta', '2022-07-07', 1, true, 'Ronald', '9086429', '12345', 10);
+INSERT INTO FACTURA (id, nro_cuenta, fecha_emision, contrato, estado, nombre, ci, nro_factura, monto) VALUES (2, 'nrocuenta', '2022-07-07', 1, true, 'Ronald', '9086429', '12345', 10);
